@@ -1,0 +1,151 @@
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+__pycache__/
+
+# PyDev files
+*.pydevproject
+
+# Eclipse
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+__pycache__/
+
+# PyDev files
+*.pydevproject
+
+# Eclipse
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+__pycache__/
+
+# PyDev files
+*.pydevproject
+
+# Eclipse
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+__pycache__/
+
+# PyDev files
+*.pydevproject
+
+# Eclipse
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+__pycache__/
+
+# PyDev files
+*.pydevproject
+
+# Eclipse
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+__pycache__/
+
+# PyDev files
+*.pydevproject
+
+# Eclipse
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm files
+*.iml
+.idea/
+*.pyc
+*.pyo
+.idea/workspace.xml
