@@ -128,6 +128,7 @@ __pycache__/
 *.pyd
 *.ipynb_checkpoints/
 __pycache__/
+*.pyc
 
 # PyDev files
 *.pydevproject
